@@ -16,7 +16,7 @@ The app includes interfaces and application code for:
 - Creating clubs, leagues, and tournaments.
 - Tracking profile completion, experience points, and achievements.
 
-Verza is still in final testing. These features describe the development project; this portfolio does not claim a public launch or a user base.
+Verza is still in final testing and release date is still uncomfirmed.
 
 ## Screenshots
 

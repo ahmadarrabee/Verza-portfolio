@@ -4,6 +4,8 @@ A sports-focused social networking app by **Ahmad Arrabee**, founder and develop
 
 **Current stage: final testing.**
 
+**Waitlist:** [Join the Verza waitlist](https://verza-pearl.vercel.app/).
+
 Verza brings athlete profiles, sports updates, recruiting opportunities, clubs, and competitions into one mobile app. This portfolio shares selected screenshots and source files from the project. The full development repository remains private.
 
 ## What I built
@@ -16,7 +18,7 @@ The app includes interfaces and application code for:
 - Creating clubs, leagues, and tournaments.
 - Tracking profile completion, experience points, and achievements.
 
-Verza is still in final testing and release date is still uncomfirmed.
+Verza is still in final testing, and a release date has not been confirmed.
 
 ## Screenshots
 
